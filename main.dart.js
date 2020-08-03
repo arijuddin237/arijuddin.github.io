@@ -25344,7 +25344,7 @@ $0:function(){return this.a.d=this.b},
 $S:70}
 K.uk.prototype={
 H:function(a){var s=null,r=t.t
-r=T.Vk(H.b([new K.v2(U.kW("assets/avatar.jpg",s,s).c,100,s),new T.cn(s,20,s,s),L.il("Amalul Arijuddin",s,s,4),new T.cn(s,20,s,s),L.il("Android. iOS. Flutter. Website. \nLikes Traveling.",K.aJ(a).y2.Q,C.i0,2),new T.cn(s,40,s,s),T.q3(H.b([N.QI(new T.cn(20,20,U.kW("assets/github.png",s,s),s),L.il("Github",s,s,s),new K.Fm()),N.QI(new T.cn(20,20,U.kW("assets/twitter.png",s,s),s),L.il("Twitter",s,s,s),new K.Fn())],r),C.bR,C.lI,C.dR),T.q3(H.b([N.QI(new T.cn(20,20,U.kW("assets/instagram.png",s,s),s),L.il("Instagram",s,s,s),new K.Fo()),N.QI(new T.cn(20,20,U.kW("assets/facebook.png",s,s),s),L.il("Facebook",s,s,s),new K.Fp())],r),C.bR,C.lI,C.dR)],r),C.bR,C.dQ,C.dR)
+r=T.Vk(H.b([new K.v2(U.kW("assets/avatar.jpg",s,s).c,100,s),new T.cn(s,20,s,s),L.il("Amalul Arijuddin",s,s,3),new T.cn(s,20,s,s),L.il("Android. iOS. Flutter. Website. \nLikes Traveling.",K.aJ(a).y2.Q,C.i0,2),new T.cn(s,40,s,s),T.q3(H.b([N.QI(new T.cn(20,20,U.kW("assets/github.png",s,s),s),L.il("Github",s,s,s),new K.Fm()),N.QI(new T.cn(20,20,U.kW("assets/twitter.png",s,s),s),L.il("Twitter",s,s,s),new K.Fn())],r),C.bR,C.lI,C.dR),T.q3(H.b([N.QI(new T.cn(20,20,U.kW("assets/instagram.png",s,s),s),L.il("Instagram",s,s,s),new K.Fo()),N.QI(new T.cn(20,20,U.kW("assets/facebook.png",s,s),s),L.il("Facebook",s,s,s),new K.Fp())],r),C.bR,C.lI,C.dR)],r),C.bR,C.dQ,C.dR)
 return new E.zp(!0,new T.hB(C.W,s,s,new T.ee(C.u4,r,s),s),s)}}
 K.Fm.prototype={
 $0:function(){return C.ai.kw(window,"https://github.com/arijuddin237","arijuddin237")},
